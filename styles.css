@@ -1,0 +1,33 @@
+body{
+    background-color: beige;
+}
+.caja-imagenes{
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    margin: 20px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+
+}
+#menu{
+    height: 80px;
+    width: 100%;
+}
+.img-1{
+    width: 100%;
+    height: 700px;
+}
+.mb-3{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#boton-envio{
+    margin-left: 20px;
+    display: flex;
+    justify-content: end;
+}
