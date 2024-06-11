@@ -31,3 +31,9 @@ h1{
     display: flex;
     justify-content: end;
 }
+#boton-cancelar{
+    margin-left: 20px;
+    display: flex;
+    justify-content: end;
+    color: red;
+}
